@@ -25,8 +25,7 @@ SECRET_KEY = 'django-insecure-umudbpsyjgu(!dq*$$sdo6c5+ec2icn9v120=^+$cywwt!x&kv
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
-
+ALLOWED_HOSTS = ['practica2-2a.onrender.com', 'localhost', '127.0.0.1']
 
 # Application definition
 
